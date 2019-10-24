@@ -4,7 +4,7 @@
  
  Supported Versions: 4.10, 4.20, 4.30
  
-This is a plugin which implements ZipPay as a payment method for NopCommerce. The project is designed for commercial use and has the following features/functionality:
+This is a plugin which implements [ZipPay](https://zip.co/) as a payment method for NopCommerce. The project is designed for commercial use and has the following features/functionality:
  
  - Checkout for the ZipPay merchant API in NopCommerce.
  - Sandbox and production mode.
